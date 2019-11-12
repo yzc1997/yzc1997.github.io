@@ -1,1 +1,65 @@
-theme: jekyll-theme-tactile
+# Basic
+title: yzc
+subtitle: 个人博客
+description: 欢迎来到我的博客~
+# 头像里面的标题
+avatarTitle: yzc1997
+# 头像里面的描述
+avatarDesc: 学习记录
+url: "http://yzc1997.github.io"
+
+# Comment
+comment:
+    disqus: yan
+    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
+
+# Social
+social:
+    #weibo: 5366874726 
+    github: yzc1997
+    # zhihu: panpanleopard
+    # juejin: xxx
+    #jianshu: 2ada30d8d0f7
+    # twitter: 
+    mail: 302685034@qq.com
+
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+#baidu:
+#    id: xxxx  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+#    id: xxxx  
+    host: auto  
+
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+
