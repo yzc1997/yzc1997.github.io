@@ -1,8 +1,9 @@
 ---
 title: my first blog
 layout: post
-categories: hello
-tags: hello
+categories: ''
+tags: ''
 description: hello
+tag: hello
 ---
 ## 你好
