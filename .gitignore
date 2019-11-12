@@ -1,7 +1,4 @@
-*.gem
-.bundle
-.sass-cache
-_site
+.c9/
+_site/
 Gemfile.lock
-.idea
-.DS_Store
+node_modules
