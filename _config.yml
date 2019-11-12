@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
+title: MyBolg
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: 302685034@qq.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/yzc1997.github.io"
-url: "https://www.csrhymes.com"
+baseurl: ""
+url: "http://yzc1997.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 
@@ -50,9 +50,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+#      author: "C.S. Rhymes"
       layout: post
-      image: https://via.placeholder.com/1200x800
+#      image: https://via.placeholder.com/1200x800
       show_sidebar: true
 
 markdown: kramdown
@@ -64,5 +64,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+#    image: https://via.placeholder.com/800x600
     show_sidebar: false
