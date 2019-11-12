@@ -1,7 +1,6 @@
 ---
-layout: page
 title: About
-permalink: /about/
+menus: header
+layout: about_me
+permalink: /about
 ---
-
-[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).
