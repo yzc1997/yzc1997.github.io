@@ -12,11 +12,11 @@ group: navigation
 </ul>
 
 <div class = "card">
-{% for tag in site.tags %} 
+{% for tags in site.tags %} 
 
-  <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+  <h3 id="{{ tags[0] }}-ref">{{ tags[0] }}</h3>
   <ul>
-    {% assign pages_list = tag[1] %}  
+    {% assign pages_list = tags[1] %}  
     {% include JB/pages_list %}
   </ul>
 
