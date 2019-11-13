@@ -4,7 +4,7 @@ layout: post
 date: 2019-11-13 12:39:53 
 description: hello
 tags: hello
-typora-copy-images-to:\images\posts
+typora-copy-images-to: ..\images\posts
 ---
 ## 你好
 
