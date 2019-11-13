@@ -10,7 +10,7 @@ url: "http://yzc1997.github.io"
 
 # Comment
 comment:
-    disqus: yan
+    #disqus: yzc1997
     gitment: yzc1997 // 需要修改 comments.html中的client_id和client_secret
 
 # Social
