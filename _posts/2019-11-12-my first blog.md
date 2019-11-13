@@ -10,7 +10,7 @@ typora-copy-images-to: ..\images\posts
 ---
 ## 你好
 
-<img src="D:\project\myblog\images\posts\img1.jpg" alt="171541134 严梓成 头像" style="zoom: 25%;" />
+<img src="..\images\posts\img1.jpg" alt="" style="zoom: 25%;" />
 
 ### 这个是测试标题
 
